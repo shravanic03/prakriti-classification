@@ -57,6 +57,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        ayurvedic: {
+          vata: "hsl(var(--ayurvedic-vata))",
+          pitta: "hsl(var(--ayurvedic-pitta))",
+          kapha: "hsl(var(--ayurvedic-kapha))",
+          earth: "hsl(var(--ayurvedic-earth))",
+          leaf: "hsl(var(--ayurvedic-leaf))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
